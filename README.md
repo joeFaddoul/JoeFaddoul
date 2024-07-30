@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on deeloping my coding career!
+- 🔭 I’m currently working on developing my coding career!
 - 🌱 I’m currently learning computer science.
 - 💬 Ask me about game developement!
 - 😄 Pronouns: he/him
